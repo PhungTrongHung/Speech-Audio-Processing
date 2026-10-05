@@ -1,0 +1,4 @@
+﻿file,label,duration_s,number_of_frames,min_log_energy_db,max_log_energy_db,mean_rms,mean_zcr,max_zcr
+dataset/ba/ba_03_1.wav,ba,1.944,193,-67.564,8.156,0.026934,0.064262,0.25
+dataset/bon/bon_01_1.wav,bon,1.464,145,-67.53,11.221,0.029522,0.089293,0.2625
+dataset/hai/hai_03.wav,hai,1.74,173,-64.874,3.91,0.021813,0.084003,0.25

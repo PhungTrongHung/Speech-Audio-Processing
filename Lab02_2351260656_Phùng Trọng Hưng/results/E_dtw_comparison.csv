@@ -1,0 +1,4 @@
+﻿comparison,label_x,label_y,file_x,file_y,frames_x,frames_y,total_cost,path_length,dtw_norm
+self_check,ba,ba,ba_03_1.npy,ba_03_1.npy,184,184,0.0,184,0.0
+same_word,ba,ba,ba_03_1.npy,ba_05_1.npy,184,202,4729.760696,239,19.789794
+different_words,ba,bon,ba_03_1.npy,bon_01_1.npy,184,136,4934.22852,198,24.920346

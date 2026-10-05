@@ -1,0 +1,31 @@
+﻿experiment,experiment_name,file,true_label,predicted_label,correct,trim,delta,feature_dimension,number_of_frames,top1_label,top1_score,top1_template,top2_label,top2_score,top2_template,top3_label,top3_score,top3_template
+baseline_trim_mfcc13,Trim + MFCC13,ba_04_1.wav,ba,ba,True,True,False,13,103,ba,23.350776,ba_05_1.wav,hai,29.223989,hai_03.wav,mot,34.308551,mot_03.wav
+baseline_trim_mfcc13,Trim + MFCC13,ba_02_1.wav,ba,hai,False,True,False,13,182,hai,30.240936,hai_01.wav,khong,30.245746,khong_05.wav,mot,31.387421,mot_02.wav
+baseline_trim_mfcc13,Trim + MFCC13,bon_04_1.wav,bon,bon,True,True,False,13,207,bon,23.505776,bon_02_1.wav,mot,27.087071,mot_02.wav,khong,30.227011,khong_05.wav
+baseline_trim_mfcc13,Trim + MFCC13,bon_03_1.wav,bon,bon,True,True,False,13,209,bon,20.235369,bon_02_1.wav,mot,30.956848,mot_01.wav,khong,35.880537,khong_01.wav
+baseline_trim_mfcc13,Trim + MFCC13,hai_04.wav,hai,hai,True,True,False,13,190,hai,18.000992,hai_03.wav,ba,20.218606,ba_05_1.wav,mot,22.229566,mot_03.wav
+baseline_trim_mfcc13,Trim + MFCC13,hai_02.wav,hai,hai,True,True,False,13,196,hai,20.497915,hai_03.wav,ba,22.861093,ba_05_1.wav,mot,23.929789,mot_03.wav
+baseline_trim_mfcc13,Trim + MFCC13,khong_02.wav,khong,khong,True,True,False,13,248,khong,20.36931,khong_01.wav,hai,22.307121,hai_03.wav,bon,24.360219,bon_01_1.wav
+baseline_trim_mfcc13,Trim + MFCC13,khong_03.wav,khong,khong,True,True,False,13,221,khong,22.350386,khong_01.wav,hai,23.548797,hai_03.wav,mot,24.582375,mot_02.wav
+baseline_trim_mfcc13,Trim + MFCC13,mot_05.wav,mot,mot,True,True,False,13,207,mot,20.778297,mot_02.wav,bon,21.937704,bon_01_1.wav,khong,22.093078,khong_01.wav
+baseline_trim_mfcc13,Trim + MFCC13,mot_04.wav,mot,mot,True,True,False,13,251,mot,20.92022,mot_02.wav,hai,22.352563,hai_03.wav,khong,22.4927,khong_05.wav
+e1_no_trim_mfcc13,No trim + MFCC13,ba_04_1.wav,ba,ba,True,False,False,13,113,ba,19.687517,ba_05_1.wav,hai,28.073219,hai_03.wav,mot,31.651445,mot_03.wav
+e1_no_trim_mfcc13,No trim + MFCC13,ba_02_1.wav,ba,hai,False,False,False,13,187,hai,27.049484,hai_01.wav,khong,29.494915,khong_05.wav,mot,31.414808,mot_03.wav
+e1_no_trim_mfcc13,No trim + MFCC13,bon_04_1.wav,bon,bon,True,False,False,13,216,bon,23.152477,bon_02_1.wav,mot,26.846629,mot_02.wav,khong,29.844424,khong_05.wav
+e1_no_trim_mfcc13,No trim + MFCC13,bon_03_1.wav,bon,bon,True,False,False,13,216,bon,20.225008,bon_02_1.wav,mot,31.150328,mot_01.wav,khong,35.340874,khong_01.wav
+e1_no_trim_mfcc13,No trim + MFCC13,hai_04.wav,hai,hai,True,False,False,13,195,hai,17.276342,hai_03.wav,ba,19.778386,ba_05_1.wav,mot,21.484982,mot_03.wav
+e1_no_trim_mfcc13,No trim + MFCC13,hai_02.wav,hai,hai,True,False,False,13,201,hai,20.483358,hai_03.wav,ba,22.765068,ba_05_1.wav,mot,24.022517,mot_03.wav
+e1_no_trim_mfcc13,No trim + MFCC13,khong_02.wav,khong,khong,True,False,False,13,255,khong,20.711455,khong_01.wav,hai,22.78394,hai_03.wav,bon,23.986887,bon_01_1.wav
+e1_no_trim_mfcc13,No trim + MFCC13,khong_03.wav,khong,khong,True,False,False,13,227,khong,22.206264,khong_01.wav,hai,23.619094,hai_03.wav,mot,24.543536,mot_02.wav
+e1_no_trim_mfcc13,No trim + MFCC13,mot_05.wav,mot,mot,True,False,False,13,215,mot,20.335926,mot_02.wav,bon,21.668475,bon_01_1.wav,khong,21.925228,khong_01.wav
+e1_no_trim_mfcc13,No trim + MFCC13,mot_04.wav,mot,mot,True,False,False,13,257,mot,20.95689,mot_02.wav,khong,22.157029,khong_01.wav,hai,22.325569,hai_03.wav
+e2_trim_mfcc13_delta,Trim + MFCC13 + Delta,ba_04_1.wav,ba,ba,True,True,True,26,103,ba,23.567633,ba_05_1.wav,hai,30.231323,hai_03.wav,mot,35.486241,mot_01.wav
+e2_trim_mfcc13_delta,Trim + MFCC13 + Delta,ba_02_1.wav,ba,khong,False,True,True,26,182,khong,30.634858,khong_05.wav,mot,32.457276,mot_02.wav,ba,33.762672,ba_03_1.wav
+e2_trim_mfcc13_delta,Trim + MFCC13 + Delta,bon_04_1.wav,bon,bon,True,True,True,26,207,bon,23.769286,bon_02_1.wav,mot,27.445762,mot_02.wav,khong,30.798712,khong_05.wav
+e2_trim_mfcc13_delta,Trim + MFCC13 + Delta,bon_03_1.wav,bon,bon,True,True,True,26,209,bon,20.507482,bon_02_1.wav,mot,31.279225,mot_01.wav,khong,36.116777,khong_01.wav
+e2_trim_mfcc13_delta,Trim + MFCC13 + Delta,hai_04.wav,hai,hai,True,True,True,26,190,hai,18.389169,hai_03.wav,ba,20.653219,ba_05_1.wav,mot,22.600741,mot_03.wav
+e2_trim_mfcc13_delta,Trim + MFCC13 + Delta,hai_02.wav,hai,hai,True,True,True,26,196,hai,20.81249,hai_03.wav,ba,23.418489,ba_05_1.wav,mot,24.622393,mot_03.wav
+e2_trim_mfcc13_delta,Trim + MFCC13 + Delta,khong_02.wav,khong,khong,True,True,True,26,248,khong,20.631068,khong_01.wav,hai,22.742684,hai_03.wav,bon,24.742907,bon_01_1.wav
+e2_trim_mfcc13_delta,Trim + MFCC13 + Delta,khong_03.wav,khong,khong,True,True,True,26,221,khong,22.653992,khong_01.wav,hai,23.900995,hai_03.wav,mot,24.908539,mot_02.wav
+e2_trim_mfcc13_delta,Trim + MFCC13 + Delta,mot_05.wav,mot,mot,True,True,True,26,207,mot,21.153571,mot_02.wav,bon,22.331635,bon_01_1.wav,khong,22.420511,khong_01.wav
+e2_trim_mfcc13_delta,Trim + MFCC13 + Delta,mot_04.wav,mot,mot,True,True,True,26,251,mot,21.498504,mot_02.wav,khong,22.804639,khong_05.wav,hai,22.841842,hai_03.wav

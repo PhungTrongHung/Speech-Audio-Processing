@@ -1,0 +1,11 @@
+﻿file,true_label,predicted_label,correct,number_of_frames,top1_label,top1_score,top1_template,top2_label,top2_score,top2_template,top3_label,top3_score,top3_template,reject_threshold
+ba_04_1.wav,ba,ba,True,103,ba,23.350776,ba_05_1.wav,hai,29.223989,hai_03.wav,mot,34.308551,mot_03.wav,disabled
+ba_02_1.wav,ba,hai,False,182,hai,30.240936,hai_01.wav,khong,30.245746,khong_05.wav,mot,31.387421,mot_02.wav,disabled
+bon_04_1.wav,bon,bon,True,207,bon,23.505776,bon_02_1.wav,mot,27.087071,mot_02.wav,khong,30.227011,khong_05.wav,disabled
+bon_03_1.wav,bon,bon,True,209,bon,20.235369,bon_02_1.wav,mot,30.956848,mot_01.wav,khong,35.880537,khong_01.wav,disabled
+hai_04.wav,hai,hai,True,190,hai,18.000992,hai_03.wav,ba,20.218606,ba_05_1.wav,mot,22.229566,mot_03.wav,disabled
+hai_02.wav,hai,hai,True,196,hai,20.497915,hai_03.wav,ba,22.861093,ba_05_1.wav,mot,23.929789,mot_03.wav,disabled
+khong_02.wav,khong,khong,True,248,khong,20.36931,khong_01.wav,hai,22.307121,hai_03.wav,bon,24.360219,bon_01_1.wav,disabled
+khong_03.wav,khong,khong,True,221,khong,22.350386,khong_01.wav,hai,23.548797,hai_03.wav,mot,24.582375,mot_02.wav,disabled
+mot_05.wav,mot,mot,True,207,mot,20.778297,mot_02.wav,bon,21.937704,bon_01_1.wav,khong,22.093078,khong_01.wav,disabled
+mot_04.wav,mot,mot,True,251,mot,20.92022,mot_02.wav,hai,22.352563,hai_03.wav,khong,22.4927,khong_05.wav,disabled

@@ -1,0 +1,26 @@
+﻿label,file,duration_s,number_of_frames,number_of_coefficients,mfcc_shape,pre_emphasis,n_fft,n_mels,n_mfcc,cmn,feature_path
+ba,ba_01_1.wav,1.582,156,13,"(156, 13)",0.97,512,24,13,True,features/mfcc_trimmed/ba/ba_01_1.npy
+ba,ba_02_1.wav,1.846,182,13,"(182, 13)",0.97,512,24,13,True,features/mfcc_trimmed/ba/ba_02_1.npy
+ba,ba_03_1.wav,1.864,184,13,"(184, 13)",0.97,512,24,13,True,features/mfcc_trimmed/ba/ba_03_1.npy
+ba,ba_04_1.wav,1.055,103,13,"(103, 13)",0.97,512,24,13,True,features/mfcc_trimmed/ba/ba_04_1.npy
+ba,ba_05_1.wav,2.042,202,13,"(202, 13)",0.97,512,24,13,True,features/mfcc_trimmed/ba/ba_05_1.npy
+bon,bon_01_1.wav,1.384,136,13,"(136, 13)",0.97,512,24,13,True,features/mfcc_trimmed/bon/bon_01_1.npy
+bon,bon_02_1.wav,1.874,185,13,"(185, 13)",0.97,512,24,13,True,features/mfcc_trimmed/bon/bon_02_1.npy
+bon,bon_03_1.wav,2.114,209,13,"(209, 13)",0.97,512,24,13,True,features/mfcc_trimmed/bon/bon_03_1.npy
+bon,bon_04_1.wav,2.094,207,13,"(207, 13)",0.97,512,24,13,True,features/mfcc_trimmed/bon/bon_04_1.npy
+bon,bon_05_1.wav,1.284,126,13,"(126, 13)",0.97,512,24,13,True,features/mfcc_trimmed/bon/bon_05_1.npy
+hai,hai_01.wav,1.857,183,13,"(183, 13)",0.97,512,24,13,True,features/mfcc_trimmed/hai/hai_01.npy
+hai,hai_02.wav,1.99,196,13,"(196, 13)",0.97,512,24,13,True,features/mfcc_trimmed/hai/hai_02.npy
+hai,hai_03.wav,1.68,165,13,"(165, 13)",0.97,512,24,13,True,features/mfcc_trimmed/hai/hai_03.npy
+hai,hai_04.wav,1.93,190,13,"(190, 13)",0.97,512,24,13,True,features/mfcc_trimmed/hai/hai_04.npy
+hai,hai_05.wav,1.323,130,13,"(130, 13)",0.97,512,24,13,True,features/mfcc_trimmed/hai/hai_05.npy
+khong,khong_01.wav,2.247,222,13,"(222, 13)",0.97,512,24,13,True,features/mfcc_trimmed/khong/khong_01.npy
+khong,khong_02.wav,2.51,248,13,"(248, 13)",0.97,512,24,13,True,features/mfcc_trimmed/khong/khong_02.npy
+khong,khong_03.wav,2.24,221,13,"(221, 13)",0.97,512,24,13,True,features/mfcc_trimmed/khong/khong_03.npy
+khong,khong_04.wav,1.463,144,13,"(144, 13)",0.97,512,24,13,True,features/mfcc_trimmed/khong/khong_04.npy
+khong,khong_05.wav,2.415,239,13,"(239, 13)",0.97,512,24,13,True,features/mfcc_trimmed/khong/khong_05.npy
+mot,mot_01.wav,1.86,183,13,"(183, 13)",0.97,512,24,13,True,features/mfcc_trimmed/mot/mot_01.npy
+mot,mot_02.wav,1.95,192,13,"(192, 13)",0.97,512,24,13,True,features/mfcc_trimmed/mot/mot_02.npy
+mot,mot_03.wav,2.08,205,13,"(205, 13)",0.97,512,24,13,True,features/mfcc_trimmed/mot/mot_03.npy
+mot,mot_04.wav,2.535,251,13,"(251, 13)",0.97,512,24,13,True,features/mfcc_trimmed/mot/mot_04.npy
+mot,mot_05.wav,2.1,207,13,"(207, 13)",0.97,512,24,13,True,features/mfcc_trimmed/mot/mot_05.npy

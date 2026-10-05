@@ -1,0 +1,4 @@
+﻿experiment,name,trim,delta,feature_dimension,correct,total,accuracy,accuracy_percent,difference_vs_baseline_pp
+baseline_trim_mfcc13,Trim + MFCC13,True,False,13,9,10,0.9,90.0,0.0
+e1_no_trim_mfcc13,No trim + MFCC13,False,False,13,9,10,0.9,90.0,0.0
+e2_trim_mfcc13_delta,Trim + MFCC13 + Delta,True,True,26,9,10,0.9,90.0,0.0
