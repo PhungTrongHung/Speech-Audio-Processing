@@ -1,0 +1,12 @@
+LAB 3 - HMM SPEECH RECOGNITION
+============================================================
+
+HMM accuracy: 60.00%
+HMM train time: 3.8100s
+HMM test time/trial: 0.0047s
+
+DTW accuracy: 80.00%
+DTW test time/trial: 0.1927s
+
+Suggested normalized likelihood threshold: -53.657070
+Suggested top1-top2 margin threshold: 0.112039

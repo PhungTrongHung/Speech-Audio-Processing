@@ -1,0 +1,7 @@
+﻿Chi so,DTW Lab 2,HMM Lab 3,Nhan xet
+Accuracy,80.00%,60.00%,Cùng train/test split
+So mau train/lop,Dùng toàn bộ template train,Dùng toàn bộ utterance train,Cùng dữ liệu
+Thoi gian train,Không có bước fit model,3.8100s,DTW lưu template; HMM phải huấn luyện
+Thoi gian test/trial,0.1927s,0.0047s,
+Top confusion pair,mo -> dong (1),dong -> mo (1),
+Alignment,Warping path,Viterbi state path,

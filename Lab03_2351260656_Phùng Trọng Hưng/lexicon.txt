@@ -1,0 +1,11 @@
+# LAB 3 - MINI LEXICON
+#
+# Format:
+# WORD PHONE_1 PHONE_2 ... PHONE_K
+#
+# Hãy thay bằng phone inventory do giảng viên cung cấp.
+#
+# Ví dụ FORMAT בלבד:
+# WORD PHONE_1 PHONE_2
+#
+# Không tự sử dụng dòng ví dụ làm phiên âm tiếng Việt.

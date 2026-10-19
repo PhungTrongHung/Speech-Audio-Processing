@@ -1,0 +1,4 @@
+﻿n_states,accuracy,all_converged,train_time
+3,0.4,True,0.7231330999929924
+5,0.6,True,0.8728207999956794
+7,0.7,True,1.0702097000030335

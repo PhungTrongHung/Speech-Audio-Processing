@@ -1,0 +1,4 @@
+﻿condition,accuracy
+clean,0.6
+noise_20dB,0.1
+accuracy_drop,0.5
