@@ -1,0 +1,48 @@
+{
+  "sentence": "Mời khách hàng số 23 đến quầy 5.",
+  "tokens": [
+    "mời",
+    "khách",
+    "hàng",
+    "số",
+    "hai",
+    "ba",
+    "đến",
+    "quầy",
+    "năm"
+  ],
+  "inventory_units": 42,
+  "candidates_per_unit": 2,
+  "sample_rate": 16000,
+  "selected_candidates_1based": [
+    2,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "raw_duration_s": 3.121875,
+  "best_duration_s": 3.2705,
+  "hmm_duration_s": 3.27,
+  "crossfade_ms": [
+    0,
+    5,
+    15,
+    30
+  ],
+  "duration_rates": [
+    0.8,
+    1.0,
+    1.2
+  ],
+  "pitch_semitones": [
+    -2,
+    0,
+    2
+  ],
+  "runtime_s": 4.79260569998587
+}
